@@ -6,4 +6,6 @@ Users can also share the app with others as we;; as the static cards themselves.
 
 The API used for this app is the Giphy API that used in previous labs.
 
+Final site: http://whpc-acg.appspot.com/
+
 Enjoy.
